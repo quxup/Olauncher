@@ -2,12 +2,11 @@ package app.olaunchercf.data
 
 import android.content.Context
 import android.content.SharedPreferences
+import app.olaunchercf.data.Constants.PREFS_FILENAME
 
 class Prefs(context: Context) {
 
     private val APP_LANGUAGE = "app_language"
-
-    private val PREFS_FILENAME = "app.olauncher"
 
     private val FIRST_OPEN = "FIRST_OPEN"
     private val FIRST_SETTINGS_OPEN = "FIRST_SETTINGS_OPEN"

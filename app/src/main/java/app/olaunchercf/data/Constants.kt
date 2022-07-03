@@ -14,6 +14,8 @@ interface EnumOption {
 
 object Constants {
 
+    const val PREFS_FILENAME = "app.olauncher"
+
     const val FLAG_LAUNCH_APP = 100
     const val FLAG_HIDDEN_APPS = 101
 
