@@ -135,10 +135,6 @@ class HomeFragment : Fragment(), View.OnClickListener, View.OnLongClickListener 
                     binding.date.visibility = View.GONE
                 }
             }
-            /*toggleDateTime.observe(viewLifecycleOwner) {
-                if (it) binding.dateTimeLayout.visibility = View.VISIBLE
-                else binding.dateTimeLayout.visibility = View.GONE
-            }*/
         }
     }
 
