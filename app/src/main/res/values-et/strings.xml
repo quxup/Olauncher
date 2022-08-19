@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Olauncher Clutter Free</string>
     <string name="app">Rakendus</string>
-    <string name="set_as_default_launcher">Määra peamiseks avakuvarakenduseks</string>
-    <string name="app_text_color">Teksti värvr</string>
-    <string name="double_tap_to_lock_screen">Topeltvajutus ekraani lukustamiseks</string>
+    <string name="set_as_default_launcher">Määra avakuvarakenduseks</string>
+    <string name="app_text_color">Teksti värv</string>
+    <string name="double_tap_to_lock_screen">Lukusta ekraan topeltvajutusega</string>
     <string name="experimental_">(eksperimentaalne)</string>
     <string name="admin_permission_message">Olauncher lubab, et kasutab ekraani lukustamise luba vastutustundlikult.</string>
     <string name="about">Teave</string>
-    <string name="off">Sisse</string>
-    <string name="on">Välja</string>
+    <string name="off">Sees</string>
+    <string name="on">Väljas</string>
     <string name="black">Must</string>
     <string name="white">Valge</string>
     <string name="change_default_launcher">Muuda peamist avakuvarakendust</string>
@@ -21,10 +21,10 @@
     <string name="home_alignment">Rakenduse asukoht</string>
     <string name="clock_alignment">Kella asukoht</string>
     <string name="drawer_alignment">Rakenduste menüü asukoht</string>
-    <string name="swipe_left_app">Vasakult tõmmates avaneb rakendus</string>
-    <string name="swipe_right_app">Paremalt tõmmates avaneb rakendus</string>
-    <string name="clock_click_app">Kellale vajutades avaneb rakendus</string>
-    <string name="date_click_app">Kuupäevale vajutades avaneb arakendus</string>
+    <string name="swipe_left_app">Vasakult tõmmates avaneb</string>
+    <string name="swipe_right_app">Paremalt tõmmates avaneb</string>
+    <string name="clock_click_app">Kellale vajutades avaneb</string>
+    <string name="date_click_app">Kuupäevale vajutades avaneb</string>
     <string name="commit">Soorita</string>
     <string name="app_drawer_tips">Nipp: Tühistamiseks tõmba näpuga alla. Tõmba näpuga klaviatuuri peitmiseks.</string>
     <string name="okay">Ok</string>
